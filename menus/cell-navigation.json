@@ -1,0 +1,29 @@
+{
+  "menu": [{
+    "label": "Packages",
+    "submenu": [{
+      "label": "Cell Navigation",
+      "submenu": [{
+          "label": "Select Cell",
+          "command": "cell-navigation:select-cell"
+        },
+        {
+          "label": "Next Cell",
+          "command": "cell-navigation:next-cell"
+        },
+        {
+          "label": "Previous Cell",
+          "command": "cell-navigation:previous-cell"
+        },
+        {
+          "label": "Move Cell Down",
+          "command": "cell-navigation:move-cell-down"
+        },
+        {
+          "label": "Move Cell Up",
+          "command": "cell-navigation:move-cell-up"
+        }
+      ]
+    }]
+  }]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cell-navigation",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "description": "Hydrogen cell navigation plug-in",
+  "keywords": [
+    "hydrogen",
+    "jupyter", "jupyterlab",
+    "ipython", "cell"
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "cell-navigation:next-cell",
+      "cell-navigation:previous-cell",
+      "cell-navigation:select-cell",
+      "cell-navigation:select-down",
+      "cell-navigation:select-up",
+      "cell-navigation:move-cell-down",
+      "cell-navigation:move-cell-up"
+    ]
+  },
+  "repository": "https://github.com/hoishing/cell-navigation",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "atom-workspace": {
+    "alt-j": "cell-navigation:next-cell",
+    "alt-k": "cell-navigation:previous-cell",
+    "alt-s": "cell-navigation:select-cell",
+    "shift-alt-j": "cell-navigation:select-down",
+    "shift-alt-k": "cell-navigation:select-up",
+    "cmd-alt-j": "cell-navigation:move-cell-down",
+    "cmd-alt-k": "cell-navigation:move-cell-up"
+  }
+}
