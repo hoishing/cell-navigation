@@ -1,7 +1,7 @@
 {
   "name": "cell-navigation",
   "main": "./lib/main",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Navigate, move and select code cells defined by `# %%`. Enhance your coding experience with Hydrogen and Jupytext.",
   "keywords": [
     "hydrogen",
