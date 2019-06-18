@@ -1,8 +1,8 @@
 {
   "name": "cell-navigation",
   "main": "./lib/main",
-  "version": "0.1.0",
-  "description": "Hydrogen cell navigation plug-in",
+  "version": "1.0.0",
+  "description": "Navigate, move and select code cells defined by `# %%`. Enhance your coding experience with Hydrogen and Jupytext.",
   "keywords": [
     "hydrogen",
     "jupyter", "jupyterlab",

@@ -1,8 +1,8 @@
 # Cell Navigation
 
-Navigate and move cells easily with shortcut keys.
+Navigate, move and select code cells defined by `# %%`. 
 
-Best Hydrogen / Jupytext companion.
+Enhance your coding experience with Hydrogen and Jupytext.
 
 ## Cell Navigation
 
