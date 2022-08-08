@@ -8,7 +8,7 @@ Enhance your coding experience with Hydrogen and Jupytext.
 
 - Fast cell navigation with shortcut keys
 
-![cell navigation](https://raw.githubusercontent.com/hoishing/hoishing.github.io/master/atom/cell-navigation/navigate.gif)
+![cell navigation](https://github.com/hoishing/cell-navigation/blob/master/img/navigate.gif?raw=true)
 
 ## Moving Cells
 
@@ -17,7 +17,7 @@ Enhance your coding experience with Hydrogen and Jupytext.
 - Add cell mark `# %%` automatically for top cell
 - All moves are undoable
 
-![moving cells](https://raw.githubusercontent.com/hoishing/hoishing.github.io/master/atom/cell-navigation/move.gif)
+![moving cells](https://github.com/hoishing/cell-navigation/blob/master/img/move.gif?raw=true)
 
 ## Cell Selection
 
@@ -25,10 +25,10 @@ Enhance your coding experience with Hydrogen and Jupytext.
 - select multiple cells on selected range of text
 - select adjacent cells with shortcut keys
 
-![cell selection](https://raw.githubusercontent.com/hoishing/hoishing.github.io/master/atom/cell-navigation/select.gif)
+![cell selection](https://github.com/hoishing/cell-navigation/blob/master/img/select.gif?raw=true)
 
 ## Do it all together
 
 - navigate, select and move cells with only shortcut keys
 
-![select move and navigate cells](https://raw.githubusercontent.com/hoishing/hoishing.github.io/master/atom/cell-navigation/all.gif)
+![select move and navigate cells](https://github.com/hoishing/cell-navigation/blob/master/img/all.gif?raw=true)
