@@ -1,21 +1,19 @@
 # Cell Navigation
 
-Navigate, move and select code cells defined by `# %%`. 
-
-Enhance your coding experience with Hydrogen and Jupytext.
-
-## Cell Navigation
-
-- Fast cell navigation with shortcut keys
+[![GitHub](https://img.shields.io/github/license/hoishing/cell-navigation)](https://opensource.org/licenses/MIT)
 
 ![cell navigation](https://github.com/hoishing/cell-navigation/blob/master/img/navigate.gif?raw=true)
+
+- Fast cell navigation with shortcut keys
+- Navigate, move and select code cells defined by `# %%`.
+- Enhance your coding experience with Hydrogen and Jupytext.
 
 ## Moving Cells
 
 - Move the cell under the cursor up / down
 - Move multiple cells at once on selected range of text
 - Add cell mark `# %%` automatically for top cell
-- All moves are undoable
+- All moves are undo-able
 
 ![moving cells](https://github.com/hoishing/cell-navigation/blob/master/img/move.gif?raw=true)
 
