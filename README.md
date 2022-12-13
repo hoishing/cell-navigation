@@ -1,8 +1,8 @@
-# Cell Navigation
+# Atom Editor Cell Navigation
 
 [![GitHub](https://img.shields.io/github/license/hoishing/cell-navigation)](https://opensource.org/licenses/MIT)
 
-> an [Atom editor](https://github.com/atom/atom) plugin for quick navigation between jupyter cells
+> an [Atom editor](https://github.com/atom/atom) extension for quick navigation between jupyter cells
 
 ![cell navigation](https://github.com/hoishing/cell-navigation/blob/master/img/navigate.gif?raw=true)
 
