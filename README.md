@@ -2,6 +2,8 @@
 
 [![GitHub](https://img.shields.io/github/license/hoishing/cell-navigation)](https://opensource.org/licenses/MIT)
 
+> an [Atom editor](https://github.com/atom/atom) plugin for quick navigation between jupyter cells
+
 ![cell navigation](https://github.com/hoishing/cell-navigation/blob/master/img/navigate.gif?raw=true)
 
 - Fast cell navigation with shortcut keys
@@ -30,3 +32,7 @@
 - navigate, select and move cells with only shortcut keys
 
 ![select move and navigate cells](https://github.com/hoishing/cell-navigation/blob/master/img/all.gif?raw=true)
+
+## Need Help?
+
+Open a [github issue](https://github.com/hoishing/cell-navigation/issues) or ping me on [Twitter](https://twitter.com/hoishing) ![](https://api.iconify.design/logos/twitter.svg?width=20)
