@@ -1,6 +1,6 @@
 # Atom Editor Cell Navigation
 
-![coffeescript] ![mit]
+![coverage] ![coffeescript] ![mit]
 
 > an [Atom editor](https://github.com/atom/atom) extension for quick navigation between jupyter cells
 
@@ -14,6 +14,7 @@
 
 [mit]: https://img.shields.io/github/license/hoishing/selenium-crawler
 [coffeescript]: https://img.shields.io/badge/lang-coffeescript-A67C69
+[coverage]: https://img.shields.io/badge/coverage-100%25-brightgreen
 
 ## Why?
 
